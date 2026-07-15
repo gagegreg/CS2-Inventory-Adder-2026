@@ -1,0 +1,6 @@
+pillow
+keyboard
+mss
+pymem
+mouse
+colorama
